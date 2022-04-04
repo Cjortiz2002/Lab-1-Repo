@@ -20,7 +20,10 @@ with others. One thing I did find interesting was that the code only works with 
 they used.
 
 Project 4:https://github.com/OpenMW/openmw
-This is another project that has been in the works for over a decade.
+This is another project that has been in the works for over a decade. This project allows you to play Elder Scrolls
+Morrowind on various platforms. I choose this project because I love the Elder Scrolls Games and I think it is really
+cool how fans of the original game have been working on it for a decade to bring this engine with new ways to play
+Morrowind to life. I also find it interesting how they made new technology to replace some of Bethesdas tool sets.
 
 Project 5:https://github.com/github/gitignore
 This project was interesting in a few different ways. The first thing that stood out to me was how many 
