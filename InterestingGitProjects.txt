@@ -1,0 +1,29 @@
+Project 1: https://github.com/citra-emu/citra
+I choose this project because I am a huge fan of Nintendo games and find emulation incredibly interesting. 
+I choose this nintendo 3DS emulator specifically due to how recently Nintendo has decided to shut down the 3DS shop.
+For a lot of games Emulation will be the only way to access them and I think it is important to have games history
+documented and preserved in some fashion. I also found it interesting how it can run games as they are and also
+has the capability for creating Homebrew versions.
+
+Project 2: https://github.com/PCSX2/pcsx2
+This project is similar to the last one in that it is also an Emulator. I choose this one because the PS2 was 
+one of my first consoles and a lot of my favorite games are on this console. However it is pretty hard to find some
+of them these days. One thing I found especially interesting on this repo is that it has been worked on for 
+over 10 years. The dedication and passion for this project is inspiring and support still continues to this day.
+
+Project 3:https://github.com/id-Software/DOOM
+This repo is the open source code for the original DOOM game. I choose this project for a few reasons. One DOOM is
+a Classic game and arguably the origin of the FPS genre. I found it awesome and generous of John Carmack to release
+the source code for everyone to have access to and to have fun with. In the note in the repo he even gave a few ideas
+on ways to add to the base game. I love the passion and commitment to improving the craft and sharing his knowledge
+with others. One thing I did find interesting was that the code only works with linux due to a copyright issue with the sound library
+they used.
+
+Project 4:https://github.com/OpenMW/openmw
+This is another project that has been in the works for over a decade.
+
+Project 5:https://github.com/github/gitignore
+This project was interesting in a few different ways. The first thing that stood out to me was how many 
+different templates existed for various languages,IDEs, and programs. I also found it cool how at the bottom they 
+had a way for the community to contribute to the templates and various rules to follow. This really added to the 
+sense of community.
